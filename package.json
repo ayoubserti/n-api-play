@@ -1,0 +1,19 @@
+{
+  "name": "napi_play",
+  "version": "0.0.1",
+  "main": "napi_play",
+  "author": {
+    "name": "Ayoub Serti",
+    "email": "ayb.serti@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "n-api"
+  ],
+  "dependencies": {
+    "bindings": "^1.2.1"
+  }
+}
