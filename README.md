@@ -5,6 +5,8 @@ set of example using `node_api` API.
 # Try it
 
 ```
+$ git clone https://github.com/ayoubserti/n-api-play.git .
+$ npm install
 $ node --napi-modules tests/test1.js
 
 ```
